@@ -11,6 +11,6 @@
 
 
 ### Instructions
-- `docker-compose up -d` # For starting project
-- `docker-compose down` # For stoping project
+- `docker-compose up -d` Start
+- `docker-compose down`  Stop
 
